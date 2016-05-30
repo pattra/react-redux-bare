@@ -30,3 +30,11 @@ To install:
 To test:
 
     npm run test
+
+## Useful Resources ##
+
+Looking to learn more about React, Redux, and TDD? Check these out.
+
+- [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) via egghead.io
+- [React Testing Cookbook](https://egghead.io/series/react-testing-cookbook) via egghead.io
+- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) by Tero Parviainen
