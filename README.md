@@ -1,6 +1,6 @@
 ## react-redux-bare ##
 
-`react-redux-bare` is a lightweight boilerplate featuring React and Redux. The example Redux app is taken from [here](https://github.com/reactjs/redux/tree/master/examples/todos).  It includes:
+`react-redux-bare` is a lightweight boilerplate featuring React and Redux. The example Redux todo list is taken from [here](https://github.com/reactjs/redux/tree/master/examples/todos).  It includes:
 
  - [React](https://github.com/facebook/react) & [React DOM](https://www.npmjs.com/package/react-dom)
  - [React Router](https://github.com/reactjs/react-router)
